@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="eng">
-    <title>
-
-    </title>
-    <body>
-        
+  <head>
+      <title>coding practice</title>
+  </head>
+ <body>
+        <h1>Welcome to the Web page</h1>
     </body>
 
 </html>
